@@ -1,5 +1,5 @@
 
-setwd("C://Users//pg000//Desktop//Download")
+setwd("C://Desktop//Download")
 
 NEI <- readRDS("summarySCC_PM25.rds")
 SCC <- readRDS("Source_Classification_Code.rds")
